@@ -2,7 +2,7 @@ li a {
     color: green;
 }
 
-body {
+#polls {
     background: white url("images/background.jpg") no-repeat;
     /* Full height */
     height: 100%;
@@ -11,4 +11,8 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
 }
+
+/* body {
+} */
